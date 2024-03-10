@@ -1,1 +1,1 @@
-# An good example of Clean Architecture with React 
+# A good example of Clean Architecture with React 
