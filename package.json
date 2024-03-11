@@ -13,6 +13,7 @@
     "ci:e2e": "start-server-and-test preview http://localhost:4000 test:e2e"
   },
   "dependencies": {
+    "@tanstack/react-query": "5.26.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
